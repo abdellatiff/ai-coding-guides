@@ -5,3 +5,4 @@ Each guide sits in its own folder, newest first. Every step links to the officia
 
 ## Guides
 
+- [Set up Code Mode in Claude Code](2026-11-24-code-mode-claude-writes-code-that-calls-your-mcp/README.md) · 2026-11-24
